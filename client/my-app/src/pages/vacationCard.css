@@ -1,0 +1,19 @@
+.dateStyle {
+  width: 224px;
+}
+.paperStyle {
+  padding: 30px;
+  color: white !important;
+  background: gray !important;
+  height: 75vh;
+  width: 280px;
+  margin: 35px auto;
+}
+
+.buttonStyle {
+  position: absolute;
+  margin: 110px;
+  background: black !important;
+  top: 200px;
+  left: 100px;
+}

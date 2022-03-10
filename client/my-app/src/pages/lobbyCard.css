@@ -1,0 +1,15 @@
+.paperStyleLobby {
+  padding: 30px;
+  color: white !important;
+  background: gray !important;
+  height: 60vh;
+  width: 280px;
+  margin: 35px auto;
+}
+.buttonStyleLobby {
+  position: absolute;
+  margin: 470px;
+  background: black !important;
+  top: 190px;
+  left: -60px;
+}

@@ -1,0 +1,14 @@
+.color {
+  background-color: red;
+}
+.alert {
+  position: relative;
+  margin: 200px;
+  left: 530px;
+}
+
+.photo {
+  position: absolute;
+  margin: -180px;
+  left: 960px;
+}

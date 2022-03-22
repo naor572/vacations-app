@@ -7,7 +7,7 @@ has the features to creates new vacations,to update and delete them and also pro
 on each vacation how many followers he has.
 
 ## ▶️ Execution Instructions
-for start the application please go to the path "...\vacations\client\my-app" in command line and run:
+to start the application please go to the path "...\vacations\client\my-app" in command line and run:
 ```
   npm i build
 ```
